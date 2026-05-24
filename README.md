@@ -2,7 +2,7 @@
 
 ## Link video:
 
-`https://youtu.be/qPJtdM1a4Ko`
+### https://youtu.be/qPJtdM1a4Ko
 
 ## Hướng dẫn chạy code
 - Tải xuống file `.ipynb`và file dữ liệu `.csv`
